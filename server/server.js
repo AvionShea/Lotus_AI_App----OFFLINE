@@ -48,4 +48,4 @@ app.post('/', async (req, res) => {
 })
 
 //makes sure server always listen to request
-app.listen(5000, () => console.log('Server is running on http://localhost:5000'));
+app.listen(5000, () => console.log('Lotus server is running on http://localhost:5000'));

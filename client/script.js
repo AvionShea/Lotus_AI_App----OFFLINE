@@ -86,7 +86,7 @@ const handleSubmit = async (e) => { //stops the webpage from reloading after a s
     loader(messageDiv);
 
     //fetches data from server - bot's response
-    const response = await fetch('http://localhost:5000', {
+    const response = await fetch('https://lotus-zfwr.onrender.com/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
