@@ -63,7 +63,7 @@ function chatStripe(isAi, value, uniqueId) {
 }
 
 //trigger to get AI generated response
-const handleSubmit = async (e) => {
+const handleSubmit = async (e) => { //stops the webpage from reloading after a submission, which is the default
     e.preventDefault();
 
     const data = new FormData(form);
