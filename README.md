@@ -53,7 +53,7 @@ Ends server
 
 ## Links
 
-Tutorial: [Beginner Three.js Tutorial](https://www.youtube.com/watch?v=2FeymQoKvrk)
+Tutorial: [ChatGPT AI App](https://www.youtube.com/watch?v=2FeymQoKvrk)
 
 YouTube Channel: [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 
